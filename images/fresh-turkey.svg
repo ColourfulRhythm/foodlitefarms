@@ -1,0 +1,51 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#FAFAFA"/>
+  
+  <!-- Turkey 1 -->
+  <ellipse cx="120" cy="150" rx="25" ry="35" fill="#8B5E3C"/>
+  <ellipse cx="115" cy="145" r="3" fill="#4A5568"/>
+  <ellipse cx="125" cy="145" r="3" fill="#4A5568"/>
+  <path d="M110 160 Q120 170 130 160" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <polygon points="130,150 140,145 130,155" fill="#E74C3C"/>
+  
+  <!-- Turkey 2 -->
+  <ellipse cx="200" cy="150" rx="30" ry="40" fill="#8B5E3C"/>
+  <ellipse cx="195" cy="145" r="3" fill="#4A5568"/>
+  <ellipse cx="205" cy="145" r="3" fill="#4A5568"/>
+  <path d="M190 160 Q200 170 210 160" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <polygon points="210,150 220,145 210,155" fill="#E74C3C"/>
+  
+  <!-- Turkey 3 -->
+  <ellipse cx="280" cy="150" rx="28" ry="38" fill="#8B5E3C"/>
+  <ellipse cx="275" cy="145" r="3" fill="#4A5568"/>
+  <ellipse cx="285" cy="145" r="3" fill="#4A5568"/>
+  <path d="M270 160 Q280 170 290 160" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <polygon points="290,150 300,145 290,155" fill="#E74C3C"/>
+  
+  <!-- Turkey 4 -->
+  <ellipse cx="160" cy="220" rx="22" ry="32" fill="#8B5E3C"/>
+  <ellipse cx="155" cy="215" r="3" fill="#4A5568"/>
+  <ellipse cx="165" cy="215" r="3" fill="#4A5568"/>
+  <path d="M150 230 Q160 240 170 230" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <polygon points="170,220 180,215 170,225" fill="#E74C3C"/>
+  
+  <!-- Turkey 5 -->
+  <ellipse cx="240" cy="220" rx="26" ry="36" fill="#8B5E3C"/>
+  <ellipse cx="235" cy="215" r="3" fill="#4A5568"/>
+  <ellipse cx="245" cy="215" r="3" fill="#4A5568"/>
+  <path d="M230 230 Q240 240 250 230" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <polygon points="250,220 260,215 250,225" fill="#E74C3C"/>
+  
+  <!-- Feathers -->
+  <path d="M100 130 Q90 120 100 110" stroke="#6B8E23" stroke-width="2" fill="none"/>
+  <path d="M180 125 Q170 115 180 105" stroke="#6B8E23" stroke-width="2" fill="none"/>
+  <path d="M260 127 Q250 117 260 107" stroke="#6B8E23" stroke-width="2" fill="none"/>
+  
+  <!-- Packaging -->
+  <rect x="50" y="250" width="300" height="40" fill="#B3DDF2" stroke="#6B8E23" stroke-width="2"/>
+  <text x="200" y="275" text-anchor="middle" fill="#4A5568" font-family="Arial" font-size="12">FRESH TURKEY</text>
+  
+  <!-- Ground -->
+  <rect x="0" y="290" width="400" height="10" fill="#A8D5BA"/>
+</svg>

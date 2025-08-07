@@ -1,0 +1,41 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#FAFAFA"/>
+  
+  <!-- Chick 1 -->
+  <circle cx="120" cy="150" r="30" fill="#F5B041"/>
+  <circle cx="115" cy="145" r="5" fill="#4A5568"/>
+  <circle cx="125" cy="145" r="5" fill="#4A5568"/>
+  <path d="M110 160 Q120 170 130 160" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <path d="M105 140 Q110 135 115 140" stroke="#F5B041" stroke-width="3" fill="none"/>
+  
+  <!-- Chick 2 -->
+  <circle cx="200" cy="150" r="30" fill="#F5B041"/>
+  <circle cx="195" cy="145" r="5" fill="#4A5568"/>
+  <circle cx="205" cy="145" r="5" fill="#4A5568"/>
+  <path d="M190 160 Q200 170 210 160" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <path d="M185 140 Q190 135 195 140" stroke="#F5B041" stroke-width="3" fill="none"/>
+  
+  <!-- Chick 3 -->
+  <circle cx="280" cy="150" r="30" fill="#F5B041"/>
+  <circle cx="275" cy="145" r="5" fill="#4A5568"/>
+  <circle cx="285" cy="145" r="5" fill="#4A5568"/>
+  <path d="M270 160 Q280 170 290 160" stroke="#4A5568" stroke-width="2" fill="none"/>
+  <path d="M265 140 Q270 135 275 140" stroke="#F5B041" stroke-width="3" fill="none"/>
+  
+  <!-- Beaks -->
+  <polygon points="130,150 140,145 130,155" fill="#E74C3C"/>
+  <polygon points="210,150 220,145 210,155" fill="#E74C3C"/>
+  <polygon points="290,150 300,145 290,155" fill="#E74C3C"/>
+  
+  <!-- Feet -->
+  <line x1="110" y1="180" x2="105" y2="190" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="130" y1="180" x2="135" y2="190" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="190" y1="180" x2="185" y2="190" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="210" y1="180" x2="215" y2="190" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="270" y1="180" x2="265" y2="190" stroke="#8B5E3C" stroke-width="2"/>
+  <line x1="290" y1="180" x2="295" y2="190" stroke="#8B5E3C" stroke-width="2"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="200" width="400" height="100" fill="#A8D5BA"/>
+</svg>

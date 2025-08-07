@@ -1,0 +1,54 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#FAFAFA"/>
+  
+  <!-- Chicken pieces -->
+  <ellipse cx="120" cy="150" rx="20" ry="30" fill="#8B5E3C"/>
+  <ellipse cx="115" cy="145" r="2" fill="#4A5568"/>
+  <ellipse cx="125" cy="145" r="2" fill="#4A5568"/>
+  
+  <ellipse cx="200" cy="150" rx="25" ry="35" fill="#8B5E3C"/>
+  <ellipse cx="195" cy="145" r="2" fill="#4A5568"/>
+  <ellipse cx="205" cy="145" r="2" fill="#4A5568"/>
+  
+  <ellipse cx="280" cy="150" rx="22" ry="32" fill="#8B5E3C"/>
+  <ellipse cx="275" cy="145" r="2" fill="#4A5568"/>
+  <ellipse cx="285" cy="145" r="2" fill="#4A5568"/>
+  
+  <ellipse cx="160" cy="220" rx="18" ry="28" fill="#8B5E3C"/>
+  <ellipse cx="155" cy="215" r="2" fill="#4A5568"/>
+  <ellipse cx="165" cy="215" r="2" fill="#4A5568"/>
+  
+  <ellipse cx="240" cy="220" rx="24" ry="34" fill="#8B5E3C"/>
+  <ellipse cx="235" cy="215" r="2" fill="#4A5568"/>
+  <ellipse cx="245" cy="215" r="2" fill="#4A5568"/>
+  
+  <!-- Freezer packaging -->
+  <rect x="50" y="100" width="300" height="180" fill="#B3DDF2" stroke="#6B8E23" stroke-width="3"/>
+  <rect x="60" y="110" width="280" height="160" fill="white" stroke="#6B8E23" stroke-width="1"/>
+  
+  <!-- Freezer label -->
+  <rect x="70" y="120" width="260" height="30" fill="#F5B041"/>
+  <text x="200" y="140" text-anchor="middle" fill="#4A5568" font-family="Arial" font-size="14" font-weight="bold">FROZEN CHICKEN</text>
+  
+  <!-- Temperature indicator -->
+  <circle cx="350" cy="130" r="15" fill="#E74C3C"/>
+  <text x="350" y="135" text-anchor="middle" fill="white" font-family="Arial" font-size="10">-18°C</text>
+  
+  <!-- Ice crystals -->
+  <path d="M80 180 L85 175 L90 180 L85 185 Z" fill="#B3DDF2"/>
+  <path d="M120 170 L125 165 L130 170 L125 175 Z" fill="#B3DDF2"/>
+  <path d="M160 185 L165 180 L170 185 L165 190 Z" fill="#B3DDF2"/>
+  <path d="M200 175 L205 170 L210 175 L205 180 Z" fill="#B3DDF2"/>
+  <path d="M240 180 L245 175 L250 180 L245 185 Z" fill="#B3DDF2"/>
+  <path d="M280 170 L285 165 L290 170 L285 175 Z" fill="#B3DDF2"/>
+  <path d="M320 185 L325 180 L330 185 L325 190 Z" fill="#B3DDF2"/>
+  
+  <!-- Quality seal -->
+  <circle cx="200" cy="200" r="25" fill="#6B8E23"/>
+  <text x="200" y="205" text-anchor="middle" fill="white" font-family="Arial" font-size="8">QUALITY</text>
+  <text x="200" y="215" text-anchor="middle" fill="white" font-family="Arial" font-size="8">ASSURED</text>
+  
+  <!-- Ground -->
+  <rect x="0" y="290" width="400" height="10" fill="#A8D5BA"/>
+</svg>

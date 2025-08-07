@@ -1,0 +1,70 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="#FAFAFA"/>
+  
+  <!-- Pineapple 1 -->
+  <ellipse cx="120" cy="150" rx="25" ry="35" fill="#F5B041"/>
+  <ellipse cx="115" cy="145" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="125" cy="155" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="130" cy="140" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="110" cy="150" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="120" cy="135" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="120" cy="165" rx="3" ry="3" fill="#8B5E3C"/>
+  
+  <!-- Pineapple 2 -->
+  <ellipse cx="200" cy="150" rx="30" ry="40" fill="#F5B041"/>
+  <ellipse cx="195" cy="145" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="205" cy="155" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="210" cy="140" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="190" cy="150" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="200" cy="135" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="200" cy="165" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="195" cy="160" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="205" cy="145" rx="3" ry="3" fill="#8B5E3C"/>
+  
+  <!-- Pineapple 3 -->
+  <ellipse cx="280" cy="150" rx="28" ry="38" fill="#F5B041"/>
+  <ellipse cx="275" cy="145" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="285" cy="155" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="290" cy="140" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="270" cy="150" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="280" cy="135" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="280" cy="165" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="275" cy="160" rx="3" ry="3" fill="#8B5E3C"/>
+  
+  <!-- Pineapple leaves -->
+  <path d="M120 115 Q125 105 130 115" stroke="#6B8E23" stroke-width="3" fill="none"/>
+  <path d="M200 110 Q205 100 210 110" stroke="#6B8E23" stroke-width="3" fill="none"/>
+  <path d="M280 112 Q285 102 290 112" stroke="#6B8E23" stroke-width="3" fill="none"/>
+  
+  <!-- Pineapple 4 -->
+  <ellipse cx="160" cy="220" rx="22" ry="32" fill="#F5B041"/>
+  <ellipse cx="155" cy="215" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="165" cy="225" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="150" cy="220" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="170" cy="220" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="160" cy="210" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="160" cy="230" rx="3" ry="3" fill="#8B5E3C"/>
+  
+  <!-- Pineapple 5 -->
+  <ellipse cx="240" cy="220" rx="26" ry="36" fill="#F5B041"/>
+  <ellipse cx="235" cy="215" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="245" cy="225" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="230" cy="220" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="250" cy="220" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="240" cy="210" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="240" cy="230" rx="3" ry="3" fill="#8B5E3C"/>
+  <ellipse cx="235" cy="225" rx="3" ry="3" fill="#8B5E3C"/>
+  
+  <!-- Basket -->
+  <path d="M50 250 Q200 210 350 250 L340 280 Q200 300 60 280 Z" fill="#6B8E23"/>
+  <path d="M50 250 Q200 230 350 250" stroke="#8B5E3C" stroke-width="3" fill="none"/>
+  <path d="M60 260 Q200 240 340 260" stroke="#8B5E3C" stroke-width="2" fill="none"/>
+  <path d="M70 270 Q200 250 330 270" stroke="#8B5E3C" stroke-width="2" fill="none"/>
+  
+  <!-- Basket handle -->
+  <path d="M80 230 Q200 190 320 230" stroke="#8B5E3C" stroke-width="4" fill="none"/>
+  
+  <!-- Ground -->
+  <rect x="0" y="280" width="400" height="20" fill="#A8D5BA"/>
+</svg>
